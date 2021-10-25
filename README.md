@@ -11,7 +11,6 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 
 ## Goals
 - Make habit of coding daily & learn everyday
-- Revisit HTML, CSS, JS for deeper knowledge
 - Make some real world projects for my portfolio
 - Get a good grap on Node JS & server-side javascript
 - Complete [FCC](https://www.freecodecamp.com/mimukit "FCC Profile") certification
