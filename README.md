@@ -20,7 +20,7 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 
 | No  |  Project Title  |  Completed On |
 | :------------: | ------------ | :------------: |
-| 1  |  | [Day]  |
+| 1  | Dynamic Programming | [Day 1](https://github.com/ayushAB/DSA/tree/master/Dynamic%20Programming)  |
 |  2 |  | [Day] |
 |  3 |   | [Day]  |
 | 4 |  | [Day ] |
@@ -31,15 +31,17 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 ### Day 1: Oc 25, 2021, Monday
 
 **Today's Progress**: 
-- 
-- 
+- Solved 5 dynamic programming problems
+- Learned how to use memoization with recursion by using the classic example of fibonacci series.
+- Learned how tackle dynamic programming problem and how to optimize it.
 
 **Link to work:** 
-- 
+- [Dynamic Programming](https://github.com/ayushAB/DSA/tree/master/Dynamic%20Programming)
 
 **New thing(s) learned:** 
-- 
+- Using memoization to optimize time 
+- Calculate time complexity.
 
-**Thoughts:** 
+**Thoughts:** Good experience learning the fundamentals of dynamic programming.
 
 ------------
