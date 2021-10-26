@@ -19,15 +19,15 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 
 | No  |  Project Title  |  Completed On |
 | :------------: | ------------ | :------------: |
-| 1  | Dynamic Programming | [Day 1](https://github.com/ayushAB/DSA/tree/master/Dynamic%20Programming)  |
-|  2 |  | [Day] |
+| 1  | Dynamic Programming (Recursion and memoization) | [Day 1](https://github.com/ayushAB/DSA/tree/master/Dynamic%20Programming)  |
+|  2 | Dynamic Programming (Tabulation) | [Day 2](https://github.com/ayushAB/DSA/tree/master/Dynamic%20Programming/tabulation) |
 |  3 |   | [Day]  |
 | 4 |  | [Day ] |
 | 5 | | [Day] |
 
 ## Log
 
-### Day 1: Oc 25, 2021, Monday
+### Day 1: Oct 25, 2021, Monday
 
 **Today's Progress**: 
 - Solved 5 dynamic programming problems
@@ -42,5 +42,20 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 - Calculate time complexity.
 
 **Thoughts:** Good experience learning the fundamentals of dynamic programming.
+
+------------
+### Day 2: Oct 26, 2021, Tuesday
+
+**Today's Progress**: 
+- Solved 2 dynamic programming problems
+- Learned how to use tabulation statergy to solve dynamic programing problem
+
+**Link to work:** 
+- [Dynamic Programming Tabulation](https://github.com/ayushAB/DSA/tree/master/Dynamic%20Programming/tabulation)
+
+**New thing(s) learned:** 
+- Using Tabulation Statergy
+
+**Thoughts:** Good experience learning the dynamic programming tabulation statergy.
 
 ------------
