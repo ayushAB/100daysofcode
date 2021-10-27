@@ -21,7 +21,7 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 | :------------: | ------------ | :------------: |
 | 1  | Dynamic Programming (Recursion and memoization) | [Day 1](https://github.com/ayushAB/DSA/tree/master/Dynamic%20Programming)  |
 |  2 | Dynamic Programming (Tabulation) | [Day 2](https://github.com/ayushAB/DSA/tree/master/Dynamic%20Programming/tabulation) |
-|  3 |   | [Day]  |
+|  3 | fcc certificate and mo.js  | [Day 3](https://www.freecodecamp.org/certification/fcc3f4aa331-ba6d-405a-9220-3aceb4f207fd/javascript-algorithms-and-data-structures)  |
 | 4 |  | [Day ] |
 | 5 | | [Day] |
 
@@ -57,5 +57,21 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 - Using Tabulation Statergy
 
 **Thoughts:** Good experience learning the dynamic programming tabulation statergy.
+
+------------
+### Day 3: Oct 26, 2021, Tuesday
+
+**Today's Progress**: 
+- Solved javascript data structure algorithm certification problems on freecodecam.org
+- Learned the [moj.s](https://mojs.github.io/) libaray for animation in javascript
+
+**Link to work:** 
+- [Cretification](https://www.freecodecamp.org/certification/fcc3f4aa331-ba6d-405a-9220-3aceb4f207fd/javascript-algorithms-and-data-structures)
+- [moj.s](https://mojs.github.io/)
+
+**New thing(s) learned:** 
+- [moj.s](https://mojs.github.io/) timeline usage 
+
+**Thoughts:** Overwhelmed with certification of javascript data structure algorithm at freecodecamp.org
 
 ------------
