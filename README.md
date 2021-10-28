@@ -21,8 +21,8 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 | :------------: | ------------ | :------------: |
 | 1  | Dynamic Programming (Recursion and memoization) | [Day 1](https://github.com/ayushAB/DSA/tree/master/Dynamic%20Programming)  |
 |  2 | Dynamic Programming (Tabulation) | [Day 2](https://github.com/ayushAB/DSA/tree/master/Dynamic%20Programming/tabulation) |
-|  3 | fcc certificate and mo.js library | [Day 3](https://www.freecodecamp.org/certification/fcc3f4aa331-ba6d-405a-9220-3aceb4f207fd/javascript-algorithms-and-data-structures)  |
-| 4 |  | [Day ] |
+|  3 | fcc certificate (Algorithms and Data structure) and mo.js library | [Day 3](https://www.freecodecamp.org/certification/fcc3f4aa331-ba6d-405a-9220-3aceb4f207fd/javascript-algorithms-and-data-structures)  |
+| 4 | fcc certificate (Backend Development and APIs ) and Tribute page | [Day 4](https://www.freecodecamp.org/certification/fcc3f4aa331-ba6d-405a-9220-3aceb4f207fd/back-end-development-and-apis),[Day 4](https://codepen.io/ayushab/pen/JjyJzjO) |
 | 5 | | [Day] |
 
 ## Log
@@ -59,19 +59,36 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 **Thoughts:** Good experience learning the dynamic programming tabulation statergy.
 
 ------------
-### Day 3: Oct 26, 2021, Tuesday
+### Day 3: Oct 27, 2021, Wednesday
 
 **Today's Progress**: 
 - Solved javascript data structure algorithm certification problems on freecodecam.org
 - Learned the [moj.s](https://mojs.github.io/) libaray for animation in javascript
 
 **Link to work:** 
-- [Cretification](https://www.freecodecamp.org/certification/fcc3f4aa331-ba6d-405a-9220-3aceb4f207fd/javascript-algorithms-and-data-structures)
+- [Algorithms and Data Structure Cretificate ](https://www.freecodecamp.org/certification/fcc3f4aa331-ba6d-405a-9220-3aceb4f207fd/javascript-algorithms-and-data-structures)
 - [moj.s](https://mojs.github.io/)
 
 **New thing(s) learned:** 
 - [moj.s](https://mojs.github.io/) timeline usage 
 
 **Thoughts:** Overwhelmed with certification of javascript data structure algorithm at freecodecamp.org
+
+------------
+### Day 4: Oct 28, 2021, Thursday
+
+**Today's Progress**: 
+- Completed Backend Development and API's certification at freecodecamp.org
+- Build Tribute Page challange at freecodecamp.org
+
+**Link to work:** 
+- [Backend Development and API Cretificate](https://www.freecodecamp.org/certification/fcc3f4aa331-ba6d-405a-9220-3aceb4f207fd/back-end-development-and-apis)
+- [Iron Man Tribute Page](https://codepen.io/ayushab/pen/JjyJzjO)
+
+**New thing(s) learned:** 
+- Nodejs Api working using express
+- using body-parser to parse request body.
+
+**Thoughts:** Good experience with building api with nodejs.
 
 ------------
