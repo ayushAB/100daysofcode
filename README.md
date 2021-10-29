@@ -23,7 +23,7 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 |  2 | Dynamic Programming (Tabulation) | [Day 2](https://github.com/ayushAB/DSA/tree/master/Dynamic%20Programming/tabulation) |
 |  3 | fcc certificate (Algorithms and Data structure) and mo.js library | [Day 3](https://www.freecodecamp.org/certification/fcc3f4aa331-ba6d-405a-9220-3aceb4f207fd/javascript-algorithms-and-data-structures)  |
 | 4 | fcc certificate (Backend Development and APIs ) and Tribute page | [Day 4](https://www.freecodecamp.org/certification/fcc3f4aa331-ba6d-405a-9220-3aceb4f207fd/back-end-development-and-apis),[Day 4](https://codepen.io/ayushab/pen/JjyJzjO) |
-| 5 | | [Day] |
+| 5 | fcc Random Quote Generator & Mark Down Parser | [Day 5](https://codepen.io/ayushab/full/NWvvdjW),[Day 5](https://codepen.io/ayushab/full/yLooORL) |
 
 ## Log
 
@@ -90,5 +90,22 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 - using body-parser to parse request body.
 
 **Thoughts:** Good experience with building api with nodejs.
+
+------------
+### Day 5: Oct 29, 2021, Friday
+
+**Today's Progress**: 
+- Completed freecodecamp Build a Random Quote Machine project 
+- Completed freecodecamp Build a Markdown Previewer project 
+
+**Link to work:** 
+- [Markdown Parser Previwer](https://codepen.io/ayushab/full/NWvvdjW)
+- [Random Quote Machine](https://codepen.io/ayushab/full/yLooORL)
+
+**New thing(s) learned:** 
+- Learned marked.js library
+- Learned the quote api and brushed up some jquery concepts
+
+**Thoughts:** library's can br used to make life easier.
 
 ------------
