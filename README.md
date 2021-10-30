@@ -24,6 +24,7 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 |  3 | fcc certificate (Algorithms and Data structure) and mo.js library | [Day 3](https://www.freecodecamp.org/certification/fcc3f4aa331-ba6d-405a-9220-3aceb4f207fd/javascript-algorithms-and-data-structures)  |
 | 4 | fcc certificate (Backend Development and APIs ) and Tribute page | [Day 4](https://www.freecodecamp.org/certification/fcc3f4aa331-ba6d-405a-9220-3aceb4f207fd/back-end-development-and-apis),[Day 4](https://codepen.io/ayushab/pen/JjyJzjO) |
 | 5 | fcc Random Quote Generator & Mark Down Parser | [Day 5](https://codepen.io/ayushab/full/NWvvdjW),[Day 5](https://codepen.io/ayushab/full/yLooORL) |
+| 6 | Strapi and React Todo App | [Day 6](https://github.com/ayushAB/strapi-react-todo-app) |
 
 ## Log
 
@@ -107,5 +108,20 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 - Learned the quote api and brushed up some jquery concepts
 
 **Thoughts:** library's can br used to make life easier.
+
+------------
+### Day 6: Oct 30, 2021, Saturday
+
+**Today's Progress**: 
+- Create a starter project for todo app with starpi as backend with MongoDB as database.
+- Create a react starter project with tailwindcss as the css framework for styling. 
+
+**Link to work:** 
+- [Strapi React Todo App](https://github.com/ayushAB/strapi-react-todo-app)
+
+**New thing(s) learned:** 
+- Configuring Tailwindcss with react using CRACO as Create React App doesn’t let you override the PostCSS configuration natively, we also need to install CRACO to be able to configure Tailwind.
+
+**Thoughts:** Pretty Good for the intial setup.Will need to craete a board on github for better organisation of project.
 
 ------------
