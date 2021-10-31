@@ -25,7 +25,7 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 | 4 | fcc certificate (Backend Development and APIs ) and Tribute page | [Day 4](https://www.freecodecamp.org/certification/fcc3f4aa331-ba6d-405a-9220-3aceb4f207fd/back-end-development-and-apis),[Day 4](https://codepen.io/ayushab/pen/JjyJzjO) |
 | 5 | fcc Random Quote Generator & Mark Down Parser | [Day 5](https://codepen.io/ayushab/full/NWvvdjW),[Day 5](https://codepen.io/ayushab/full/yLooORL) |
 | 6 | Strapi and React Todo App | [Day 6](https://github.com/ayushAB/strapi-react-todo-app) |
-| 7 | Strapi and React Todo App | [Day 6](https://github.com/ayushAB/strapi-react-todo-app/commit/3ce40b3f902fd3dc15d6aa14b72549fa6deafc6e) |
+| 7 | Strapi and React Todo App | [Day 7](https://github.com/ayushAB/strapi-react-todo-app/commit/3ce40b3f902fd3dc15d6aa14b72549fa6deafc6e) |
 
 ## Log
 
