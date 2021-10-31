@@ -25,6 +25,7 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 | 4 | fcc certificate (Backend Development and APIs ) and Tribute page | [Day 4](https://www.freecodecamp.org/certification/fcc3f4aa331-ba6d-405a-9220-3aceb4f207fd/back-end-development-and-apis),[Day 4](https://codepen.io/ayushab/pen/JjyJzjO) |
 | 5 | fcc Random Quote Generator & Mark Down Parser | [Day 5](https://codepen.io/ayushab/full/NWvvdjW),[Day 5](https://codepen.io/ayushab/full/yLooORL) |
 | 6 | Strapi and React Todo App | [Day 6](https://github.com/ayushAB/strapi-react-todo-app) |
+| 7 | Strapi and React Todo App | [Day 6](https://github.com/ayushAB/strapi-react-todo-app/commit/3ce40b3f902fd3dc15d6aa14b72549fa6deafc6e) |
 
 ## Log
 
@@ -123,5 +124,21 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 - Configuring Tailwindcss with react using CRACO as Create React App doesn’t let you override the PostCSS configuration natively, we also need to install CRACO to be able to configure Tailwind.
 
 **Thoughts:** Pretty Good for the intial setup.Will need to craete a board on github for better organisation of project.
+
+------------
+### Day 7: Oct 31, 2021, Sunday
+
+**Today's Progress**: 
+- Completed user authentication 
+- Completed with dashboard design
+- Completed with fetching todo and crating todos. 
+
+**Link to work:** 
+- [Strapi React Todo App](https://github.com/ayushAB/strapi-react-todo-app/commit/3ce40b3f902fd3dc15d6aa14b72549fa6deafc6e)
+
+**New thing(s) learned:** 
+- Strapi doesont fetch the todos for that particular user need to create a custom controller for it.Will have to look into it.
+
+**Thoughts:** Strapi is good cms but lacks in some area but it will evolve enventually. Still a great idea to learn this framework.
 
 ------------
