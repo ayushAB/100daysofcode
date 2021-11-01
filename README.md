@@ -26,6 +26,7 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 | 5 | fcc Random Quote Generator & Mark Down Parser | [Day 5](https://codepen.io/ayushab/full/NWvvdjW),[Day 5](https://codepen.io/ayushab/full/yLooORL) |
 | 6 | Strapi and React Todo App | [Day 6](https://github.com/ayushAB/strapi-react-todo-app) |
 | 7 | Strapi and React Todo App | [Day 7](https://github.com/ayushAB/strapi-react-todo-app/commit/3ce40b3f902fd3dc15d6aa14b72549fa6deafc6e) |
+| 8 | Strapi and React Todo App | [Day 8](https://github.com/ayushAB/strapi-react-todo-app/commit/136cb21addbffdf76a8c39ff47b6d7ca33c10779) |
 
 ## Log
 
@@ -140,5 +141,22 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 - Strapi doesont fetch the todos for that particular user need to create a custom controller for it.Will have to look into it.
 
 **Thoughts:** Strapi is good cms but lacks in some area but it will evolve enventually. Still a great idea to learn this framework.
+
+------------
+### Day 8: Nov 1, 2021, Monday
+
+**Today's Progress**: 
+- Completed fetaching user related todo using custom controller. 
+- Completed with todos adding and filtering.
+- Completed the mark todo as complete functionality.
+- Fixed Design issues 
+
+**Link to work:** 
+- [Strapi React Todo App](https://github.com/ayushAB/strapi-react-todo-app/commit/136cb21addbffdf76a8c39ff47b6d7ca33c10779)
+
+**New thing(s) learned:** 
+- Strapi does not fetch the todos for that particular user need to create a custom controller for it and fetch the todos with userid
+
+**Thoughts:** Need to explore more.
 
 ------------
