@@ -27,7 +27,7 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 | 6 | Strapi and React Todo App | [Day 6](https://github.com/ayushAB/strapi-react-todo-app) |
 | 7 | Strapi and React Todo App | [Day 7](https://github.com/ayushAB/strapi-react-todo-app/commit/3ce40b3f902fd3dc15d6aa14b72549fa6deafc6e) |
 | 8 | Strapi and React Todo App | [Day 8](https://github.com/ayushAB/strapi-react-todo-app/commit/136cb21addbffdf76a8c39ff47b6d7ca33c10779) |
-
+| 9 | Strapi and React Todo App | [Day 9](https://github.com/ayushAB/strapi-react-todo-app/commit/52d18816b9b7d7d2219c80c152e8e08e1fef52fb) |
 ## Log
 
 ### Day 1: Oct 25, 2021, Monday
@@ -158,5 +158,19 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 - Strapi does not fetch the todos for that particular user need to create a custom controller for it and fetch the todos with userid
 
 **Thoughts:** Need to explore more.
+
+------------
+### Day 9: Nov 1, 2021, Tuesday
+
+**Today's Progress**: 
+- Completed delete a todo feature.
+
+**Link to work:** 
+- [Strapi React Todo App](https://github.com/ayushAB/strapi-react-todo-app/commit/52d18816b9b7d7d2219c80c152e8e08e1fef52fb)
+
+**New thing(s) learned:** 
+- Delete api endpoint for strapi
+
+**Thoughts:** Need to polish the application more
 
 ------------
