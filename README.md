@@ -29,6 +29,7 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 | 8 | Strapi and React Todo App | [Day 8](https://github.com/ayushAB/strapi-react-todo-app/commit/136cb21addbffdf76a8c39ff47b6d7ca33c10779) |
 | 9 | Strapi and React Todo App | [Day 9](https://github.com/ayushAB/strapi-react-todo-app/commit/52d18816b9b7d7d2219c80c152e8e08e1fef52fb) |
 | 10 | Flex css | [Day 10](https://www.freecodecamp.org/learn/responsive-web-design/#css-flexbox) |
+| 11 | Coding Interview Prep | [Day 11](https://www.freecodecamp.org/learn/coding-interview-prep) |
 
 ## Log
 
@@ -188,5 +189,20 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 - css flex properties
 
 **Thoughts:** need to do more
+
+------------
+### Day 11: Nov 4, 2021, Thrusday
+
+**Today's Progress**: 
+- Solved 2 problems for project euler from freecodecam interview prep 
+
+**Link to work:** 
+- [Problem 1: Multiples of 3 and 5](https://www.freecodecamp.org/fcc3f4aa331-ba6d-405a-9220-3aceb4f207fd)
+- [Problem 2: Even Fibonacci Numbers](https://www.freecodecamp.org/fcc3f4aa331-ba6d-405a-9220-3aceb4f207fd)
+
+**New thing(s) learned:** 
+- fibonacci login revisited
+
+**Thoughts:** Let the coding begin
 
 ------------
