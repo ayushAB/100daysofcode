@@ -201,7 +201,7 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 - [Problem 2: Even Fibonacci Numbers](https://www.freecodecamp.org/fcc3f4aa331-ba6d-405a-9220-3aceb4f207fd)
 
 **New thing(s) learned:** 
-- fibonacci login revisited
+- fibonacci logic revisited
 
 **Thoughts:** Let the coding begin
 
