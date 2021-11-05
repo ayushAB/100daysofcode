@@ -30,6 +30,7 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 | 9 | Strapi and React Todo App | [Day 9](https://github.com/ayushAB/strapi-react-todo-app/commit/52d18816b9b7d7d2219c80c152e8e08e1fef52fb) |
 | 10 | Flex css | [Day 10](https://www.freecodecamp.org/learn/responsive-web-design/#css-flexbox) |
 | 11 | Coding Interview Prep | [Day 11](https://www.freecodecamp.org/learn/coding-interview-prep) |
+| 12 | Graphs | [Day 12](https://github.com/ayushAB/DSA/tree/master/Graphs) |
 
 ## Log
 
@@ -204,5 +205,19 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 - fibonacci logic revisited
 
 **Thoughts:** Let the coding begin
+
+------------
+### Day 12: Nov , 2021, Friday
+
+**Today's Progress**: 
+- Implemented the depth first and breadth first traversal in javascript
+
+**Link to work:** 
+- [Graphs](https://github.com/ayushAB/DSA/tree/master/Graphs)
+
+**New thing(s) learned:** 
+- Revisted travel techniques used for tree travesal
+
+**Thoughts:** Using data structures like stack and queue can really the way a problem can be solved.
 
 ------------
