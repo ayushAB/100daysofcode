@@ -32,6 +32,7 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 | 11 | Coding Interview Prep | [Day 11](https://www.freecodecamp.org/learn/coding-interview-prep) |
 | 12 | Graphs | [Day 12](https://github.com/ayushAB/DSA/tree/master/Graphs) |
 | 13 | Graphs | [Day 13](https://leetcode.com/problems/merge-two-binary-trees/),[Day 13](https://leetcode.com/problems/range-sum-of-bst/) |
+| 14 | Binary Tree Problems | [Day 14](https://leetcode.com/tag/depth-first-search/) |
 
 ## Log
 
@@ -233,6 +234,20 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 
 **New thing(s) learned:** 
 - Implemented traversal techinque to solve problems
+
+**Thoughts:** getting there
+
+------------
+### Day 14: Nov , 2021, Sunday
+
+**Today's Progress**: 
+- practiced binarytree problems on leetcode
+
+**Link to work:**
+-  [Problems (Merge Two Binary Trees,	Increasing Order Search Tree) ](https://leetcode.com/tag/depth-first-search/) 
+
+**New thing(s) learned:** 
+- solving approach to binary tree problems
 
 **Thoughts:** getting there
 
