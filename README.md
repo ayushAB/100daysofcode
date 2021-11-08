@@ -33,6 +33,7 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 | 12 | Graphs | [Day 12](https://github.com/ayushAB/DSA/tree/master/Graphs) |
 | 13 | Graphs | [Day 13](https://leetcode.com/problems/merge-two-binary-trees/),[Day 13](https://leetcode.com/problems/range-sum-of-bst/) |
 | 14 | Binary Tree Problems | [Day 14](https://leetcode.com/tag/depth-first-search/) |
+| 15 | Stack | [Day 15](https://www.youtube.com/watch?v=4F-BnR2XwqU&t=629s&ab_channel=Coderbyte) |
 
 ## Log
 
@@ -250,5 +251,19 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 - solving approach to binary tree problems
 
 **Thoughts:** getting there
+
+------------
+### Day 15: Nov , 2021, Monday
+
+**Today's Progress**: 
+- Revisted Stack Data Structure
+
+**Link to work:**
+-  [Stack video by alvin](https://www.youtube.com/watch?v=4F-BnR2XwqU&t=629s&ab_channel=Coderbyte ) 
+
+**New thing(s) learned:** 
+- Solving problems using stack
+
+**Thoughts:** Alvin's video is a great source to learn
 
 ------------
