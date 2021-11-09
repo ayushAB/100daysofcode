@@ -34,6 +34,7 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 | 13 | Graphs | [Day 13](https://leetcode.com/problems/merge-two-binary-trees/),[Day 13](https://leetcode.com/problems/range-sum-of-bst/) |
 | 14 | Binary Tree Problems | [Day 14](https://leetcode.com/tag/depth-first-search/) |
 | 15 | Stack | [Day 15](https://www.youtube.com/watch?v=4F-BnR2XwqU&t=629s&ab_channel=Coderbyte) |
+| 16 | Stack | [Day 16](https://github.com/ayushAB/DSA/commit/33dc3d5a95503b7a94a7e5fd1980ad6a4e470b3f) |
 
 ## Log
 
@@ -265,5 +266,19 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 - Solving problems using stack
 
 **Thoughts:** Alvin's video is a great source to learn
+
+------------
+### Day 16: Nov , 2021, Tuesday
+
+**Today's Progress**: 
+- Solved problems on leetcode
+
+**Link to work:**
+-  [problems](https://github.com/ayushAB/DSA/commit/33dc3d5a95503b7a94a7e5fd1980ad6a4e470b3f) 
+
+**New thing(s) learned:** 
+- Solving problems using stack
+
+**Thoughts:** Need to solve more problems
 
 ------------
