@@ -35,6 +35,7 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 | 14 | Binary Tree Problems | [Day 14](https://leetcode.com/tag/depth-first-search/) |
 | 15 | Stack | [Day 15](https://www.youtube.com/watch?v=4F-BnR2XwqU&t=629s&ab_channel=Coderbyte) |
 | 16 | Stack | [Day 16](https://github.com/ayushAB/DSA/commit/33dc3d5a95503b7a94a7e5fd1980ad6a4e470b3f) |
+| 17 | Stack | [Day 17](https://codepen.io/ayushab/pen/rNzrJve) |
 
 ## Log
 
@@ -280,5 +281,19 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 - Solving problems using stack
 
 **Thoughts:** Need to solve more problems
+
+------------
+### Day 17: Nov , 2021, Wednesday
+
+**Today's Progress**: 
+- Did survey from design
+
+**Link to work:**
+-  [survey from](https://codepen.io/ayushab/pen/rNzrJve) 
+
+**New thing(s) learned:** 
+- flex
+
+**Thoughts:** Manage time
 
 ------------
