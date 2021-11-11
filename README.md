@@ -35,7 +35,8 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 | 14 | Binary Tree Problems | [Day 14](https://leetcode.com/tag/depth-first-search/) |
 | 15 | Stack | [Day 15](https://www.youtube.com/watch?v=4F-BnR2XwqU&t=629s&ab_channel=Coderbyte) |
 | 16 | Stack | [Day 16](https://github.com/ayushAB/DSA/commit/33dc3d5a95503b7a94a7e5fd1980ad6a4e470b3f) |
-| 17 | Stack | [Day 17](https://codepen.io/ayushab/pen/rNzrJve) |
+| 17 | survey from design | [Day 17](https://codepen.io/ayushab/pen/rNzrJve) |
+| 18 | algorithms problem | [Day 18](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#functional-programming) |
 
 ## Log
 
@@ -293,6 +294,20 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 
 **New thing(s) learned:** 
 - flex
+
+**Thoughts:** Manage time
+
+------------
+### Day 18: Nov , 2021, Thrusday
+
+**Today's Progress**: 
+- Solved intermediate algorithms problem on freecodecamp
+
+**Link to work:**
+-  [problems](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#functional-programming) 
+
+**New thing(s) learned:** 
+- Algorithms
 
 **Thoughts:** Manage time
 
