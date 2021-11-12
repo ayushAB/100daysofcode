@@ -37,6 +37,7 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 | 16 | Stack | [Day 16](https://github.com/ayushAB/DSA/commit/33dc3d5a95503b7a94a7e5fd1980ad6a4e470b3f) |
 | 17 | survey from design | [Day 17](https://codepen.io/ayushab/pen/rNzrJve) |
 | 18 | algorithms problem | [Day 18](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#functional-programming) |
+| 19 | flutter bloc | [Day 19](https://bloclibrary.dev/#/fluttertodostutorial) |
 
 ## Log
 
@@ -310,5 +311,19 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 - Algorithms
 
 **Thoughts:** Manage time
+
+------------
+### Day 19: Nov , 2021, Friday
+
+**Today's Progress**: 
+- Flutter inital setup
+
+**Link to work:**
+-  [flutter bloc](https://bloclibrary.dev/#/fluttertodostutorial) 
+
+**New thing(s) learned:** 
+- flutter bloc
+
+**Thoughts:** State managment using bloc is awesome
 
 ------------
