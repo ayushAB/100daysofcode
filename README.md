@@ -38,6 +38,7 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 | 17 | survey from design | [Day 17](https://codepen.io/ayushab/pen/rNzrJve) |
 | 18 | algorithms problem | [Day 18](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#functional-programming) |
 | 19 | flutter bloc | [Day 19](https://bloclibrary.dev/#/fluttertodostutorial) |
+| 20 | flutter initail project setup with bloc and  hydrated bloc | [Day 20](https://github.com/ayushAB/todo_app/commit/d7632a338e21a0a579a81c1ebd6ab32a3142a877) |
 
 ## Log
 
@@ -214,7 +215,7 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 **Thoughts:** Let the coding begin
 
 ------------
-### Day 12: Nov , 2021, Friday
+### Day 12: Nov 5, 2021, Friday
 
 **Today's Progress**: 
 - Implemented the depth first and breadth first traversal in javascript
@@ -228,7 +229,7 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 **Thoughts:** Using data structures like stack and queue can really the way a problem can be solved.
 
 ------------
-### Day 13: Nov , 2021, Staturday
+### Day 13: Nov 6, 2021, Staturday
 
 **Today's Progress**: 
 - Implemented the depth first and breadth first traversal in javascript to solved problems
@@ -243,7 +244,7 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 **Thoughts:** getting there
 
 ------------
-### Day 14: Nov , 2021, Sunday
+### Day 14: Nov 7, 2021, Sunday
 
 **Today's Progress**: 
 - practiced binarytree problems on leetcode
@@ -257,7 +258,7 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 **Thoughts:** getting there
 
 ------------
-### Day 15: Nov , 2021, Monday
+### Day 15: Nov 8, 2021, Monday
 
 **Today's Progress**: 
 - Revisted Stack Data Structure
@@ -271,7 +272,7 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 **Thoughts:** Alvin's video is a great source to learn
 
 ------------
-### Day 16: Nov , 2021, Tuesday
+### Day 16: Nov 9, 2021, Tuesday
 
 **Today's Progress**: 
 - Solved problems on leetcode
@@ -285,7 +286,7 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 **Thoughts:** Need to solve more problems
 
 ------------
-### Day 17: Nov , 2021, Wednesday
+### Day 17: Nov 10, 2021, Wednesday
 
 **Today's Progress**: 
 - Did survey from design
@@ -299,7 +300,7 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 **Thoughts:** Manage time
 
 ------------
-### Day 18: Nov , 2021, Thrusday
+### Day 18: Nov 11, 2021, Thrusday
 
 **Today's Progress**: 
 - Solved intermediate algorithms problem on freecodecamp
@@ -313,7 +314,7 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 **Thoughts:** Manage time
 
 ------------
-### Day 19: Nov , 2021, Friday
+### Day 19: Nov 12, 2021, Friday
 
 **Today's Progress**: 
 - Flutter inital setup
@@ -323,6 +324,20 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 
 **New thing(s) learned:** 
 - flutter bloc
+
+**Thoughts:** State managment using bloc is awesome
+
+------------
+### Day 20: Nov 13, 2021, Staturday
+
+**Today's Progress**: 
+- Flutter inital setup with 
+
+**Link to work:**
+-  [flutter todo app](https://github.com/ayushAB/todo_app/commit/d7632a338e21a0a579a81c1ebd6ab32a3142a877) 
+
+**New thing(s) learned:** 
+- flutter bloc and hydarted bloc
 
 **Thoughts:** State managment using bloc is awesome
 
