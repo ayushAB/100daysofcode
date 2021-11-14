@@ -39,6 +39,7 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 | 18 | algorithms problem | [Day 18](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#functional-programming) |
 | 19 | flutter bloc | [Day 19](https://bloclibrary.dev/#/fluttertodostutorial) |
 | 20 | flutter initail project setup with bloc and  hydrated bloc | [Day 20](https://github.com/ayushAB/todo_app/commit/d7632a338e21a0a579a81c1ebd6ab32a3142a877) |
+| 21 | flutter app login flow | [Day 21](https://github.com/ayushAB/todo_app) |
 
 ## Log
 
@@ -335,6 +336,20 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 
 **Link to work:**
 -  [flutter todo app](https://github.com/ayushAB/todo_app/commit/d7632a338e21a0a579a81c1ebd6ab32a3142a877) 
+
+**New thing(s) learned:** 
+- flutter bloc and hydarted bloc
+
+**Thoughts:** State managment using bloc is awesome
+
+------------
+### Day 21: Nov 14, 2021, Staturday
+
+**Today's Progress**: 
+- Flutter login flow
+
+**Link to work:**
+-  [flutter todo app](https://github.com/ayushAB/todo_app) 
 
 **New thing(s) learned:** 
 - flutter bloc and hydarted bloc
