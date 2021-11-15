@@ -40,6 +40,7 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 | 19 | flutter bloc | [Day 19](https://bloclibrary.dev/#/fluttertodostutorial) |
 | 20 | flutter initail project setup with bloc and  hydrated bloc | [Day 20](https://github.com/ayushAB/todo_app/commit/d7632a338e21a0a579a81c1ebd6ab32a3142a877) |
 | 21 | flutter app login flow | [Day 21](https://github.com/ayushAB/todo_app) |
+| 22 | Strapi api updates and bug fixes for react app | [Day 22](https://github.com/ayushAB/strapi-react-todo-app) |
 
 ## Log
 
@@ -343,7 +344,7 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 **Thoughts:** State managment using bloc is awesome
 
 ------------
-### Day 21: Nov 14, 2021, Staturday
+### Day 21: Nov 14, 2021, Sunday
 
 **Today's Progress**: 
 - Flutter login flow
@@ -355,5 +356,21 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 - flutter bloc and hydarted bloc
 
 **Thoughts:** State managment using bloc is awesome
+
+------------
+### Day 22: Nov 15, 2021, Monday
+
+**Today's Progress**: 
+- Did some changes to todo api created with strapi.
+- Added filter logic to the api.
+- Did changes to the react frontend and fixed issues.
+
+**Link to work:**
+-  [Strapi Api and React App](https://github.com/ayushAB/strapi-react-todo-app) 
+
+**New thing(s) learned:** 
+- Using filetrs in strapi
+
+**Thoughts:** Getting strong with strapi and nodejs
 
 ------------
