@@ -41,6 +41,7 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 | 20 | flutter initail project setup with bloc and  hydrated bloc | [Day 20](https://github.com/ayushAB/todo_app/commit/d7632a338e21a0a579a81c1ebd6ab32a3142a877) |
 | 21 | flutter app login flow | [Day 21](https://github.com/ayushAB/todo_app) |
 | 22 | Strapi api updates and bug fixes for react app | [Day 22](https://github.com/ayushAB/strapi-react-todo-app) |
+| 23 | Technical document page design | [Day 23](https://codepen.io/ayushab/pen/mdMayxY) |
 
 ## Log
 
@@ -372,5 +373,19 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 - Using filetrs in strapi
 
 **Thoughts:** Getting strong with strapi and nodejs
+
+------------
+### Day 23: Nov 16, 2021, Tuesday
+
+**Today's Progress**: 
+- Created technical document page design
+
+**Link to work:**
+-  [Day 23](https://codepen.io/ayushab/pen/mdMayxY)
+
+**New thing(s) learned:** 
+- css tricks
+
+**Thoughts:** Getting strong with css
 
 ------------
