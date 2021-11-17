@@ -42,6 +42,7 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 | 21 | flutter app login flow | [Day 21](https://github.com/ayushAB/todo_app) |
 | 22 | Strapi api updates and bug fixes for react app | [Day 22](https://github.com/ayushAB/strapi-react-todo-app) |
 | 23 | Technical document page design | [Day 23](https://codepen.io/ayushab/pen/mdMayxY) |
+| 24 | Product Landing Page | [Day 24](https://codepen.io/ayushab/pen/PoKXVVp) |
 
 ## Log
 
@@ -389,3 +390,17 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 **Thoughts:** Getting strong with css
 
 ------------
+### Day 24: Nov 17, 2021, Wednesday
+
+**Today's Progress**: 
+- Created Product Landing Page
+
+**Link to work:**
+-  [Product Landing page](https://codepen.io/ayushab/pen/PoKXVVp)
+
+**New thing(s) learned:** 
+- css tricks
+
+**Thoughts:** Getting strong with css
+
+-----------
