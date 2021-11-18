@@ -43,6 +43,7 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 | 22 | Strapi api updates and bug fixes for react app | [Day 22](https://github.com/ayushAB/strapi-react-todo-app) |
 | 23 | Technical document page design | [Day 23](https://codepen.io/ayushab/pen/mdMayxY) |
 | 24 | Product Landing Page | [Day 24](https://codepen.io/ayushab/pen/PoKXVVp) |
+| 25 | DSA | [Day 25](https://github.com/ayushAB/DSA/blob/master/Stack/postfix_infix_prefix.js) |
 
 ## Log
 
@@ -402,5 +403,19 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 - css tricks
 
 **Thoughts:** Getting strong with css
+
+-----------
+### Day 25: Nov 18, 2021, Thrusday
+
+**Today's Progress**: 
+- Solved problem to convert string to postfix,infix and prefix using stack
+
+**Link to work:**
+-  [Stack](https://github.com/ayushAB/DSA/blob/master/Stack/postfix_infix_prefix.js)
+
+**New thing(s) learned:** 
+- Using stack 
+
+**Thoughts:** Getting strong with DSA
 
 -----------
