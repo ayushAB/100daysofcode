@@ -44,6 +44,7 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 | 23 | Technical document page design | [Day 23](https://codepen.io/ayushab/pen/mdMayxY) |
 | 24 | Product Landing Page | [Day 24](https://codepen.io/ayushab/pen/PoKXVVp) |
 | 25 | DSA | [Day 25](https://github.com/ayushAB/DSA/blob/master/Stack/postfix_infix_prefix.js) |
+| 26 | DSA | [Day 26](https://leetcode.com/problemset/all/) |
 
 ## Log
 
@@ -415,6 +416,20 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 
 **New thing(s) learned:** 
 - Using stack 
+
+**Thoughts:** Getting strong with DSA
+
+-----------
+### Day 26: Nov 189, 2021, Friday
+
+**Today's Progress**: 
+- Solved problems on leet code
+
+**Link to work:**
+-  [Day 26](https://leetcode.com/problemset/all/) |
+
+**New thing(s) learned:** 
+- Dp
 
 **Thoughts:** Getting strong with DSA
 
