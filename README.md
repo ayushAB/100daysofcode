@@ -45,6 +45,7 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 | 24 | Product Landing Page | [Day 24](https://codepen.io/ayushab/pen/PoKXVVp) |
 | 25 | DSA | [Day 25](https://github.com/ayushAB/DSA/blob/master/Stack/postfix_infix_prefix.js) |
 | 26 | DSA | [Day 26](https://leetcode.com/problemset/all/) |
+| 27 | DSA | [Day 27](https://github.com/ayushAB/DSA) |
 
 ## Log
 
@@ -420,7 +421,7 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 **Thoughts:** Getting strong with DSA
 
 -----------
-### Day 26: Nov 189, 2021, Friday
+### Day 26: Nov 19, 2021, Friday
 
 **Today's Progress**: 
 - Solved problems on leet code
@@ -430,6 +431,20 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 
 **New thing(s) learned:** 
 - Dp
+
+**Thoughts:** Getting strong with DSA
+
+-----------
+### Day 27: Nov 20, 2021, Friday
+
+**Today's Progress**: 
+- Solved staircase problem
+
+**Link to work:**
+-  [Staircase problem](https://github.com/ayushAB/DSA)
+
+**New thing(s) learned:** 
+- Dp and recursion
 
 **Thoughts:** Getting strong with DSA
 
