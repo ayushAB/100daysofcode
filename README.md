@@ -47,6 +47,7 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 | 26 | DSA | [Day 26](https://leetcode.com/problemset/all/) |
 | 27 | DSA | [Day 27](https://github.com/ayushAB/DSA) |
 | 28 | DSA | [Day 28](https://github.com/ayushAB/DSA) |
+| 29 | DSA(Binary Tress Summation problems) | [Day 29](https://github.com/ayushAB/DSA/commit/507405ebac6711931923ae49aaeb299c34391717) |
 
 ## Log
 
@@ -428,7 +429,7 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 - Solved problems on leet code
 
 **Link to work:**
--  [Day 26](https://leetcode.com/problemset/all/) |
+-  [Day 26](https://leetcode.com/problemset/all/)
 
 **New thing(s) learned:** 
 - Dp
@@ -457,6 +458,20 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 
 **Link to work:**
 -  [geeksforgeeks problems](https://github.com/ayushAB/DSA)
+
+**New thing(s) learned:** 
+- Dp and recursion,complexity analysis
+
+**Thoughts:** Getting strong with DSA
+
+-----------
+### Day 29: Nov 22, 2021, Monday
+
+**Today's Progress**: 
+- Solved geeksforgeeks problem
+
+**Link to work:**
+- [DSA(Binary Tress Summation problems)](https://github.com/ayushAB/DSA/commit/507405ebac6711931923ae49aaeb299c34391717)
 
 **New thing(s) learned:** 
 - Dp and recursion,complexity analysis
