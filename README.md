@@ -48,6 +48,7 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 | 27 | DSA | [Day 27](https://github.com/ayushAB/DSA) |
 | 28 | DSA | [Day 28](https://github.com/ayushAB/DSA) |
 | 29 | DSA(Binary Tress Summation problems) | [Day 29](https://github.com/ayushAB/DSA/commit/507405ebac6711931923ae49aaeb299c34391717) |
+| 30 | mobile nav design | [Day 30](https://github.com/ayushAB/small-javascript-projects/commit/8897cca000bb4099214b7ab67924ae014ea60cd7) |
 
 ## Log
 
@@ -477,5 +478,19 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 - Dp and recursion,complexity analysis
 
 **Thoughts:** Getting strong with DSA
+
+-----------
+### Day 30: Nov 23, 2021, Tuesday
+
+**Today's Progress**: 
+- mobile nav design
+
+**Link to work:**
+- [mobile nav](https://github.com/ayushAB/small-javascript-projects/commit/8897cca000bb4099214b7ab67924ae014ea60cd7)
+
+**New thing(s) learned:** 
+- css and html trics
+
+**Thoughts:** Getting strong with basics
 
 -----------
