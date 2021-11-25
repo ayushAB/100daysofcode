@@ -50,6 +50,7 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 | 29 | DSA(Binary Tress Summation problems) | [Day 29](https://github.com/ayushAB/DSA/commit/507405ebac6711931923ae49aaeb299c34391717) |
 | 30 | mobile nav design | [Day 30](https://github.com/ayushAB/small-javascript-projects/commit/8897cca000bb4099214b7ab67924ae014ea60cd7) |
 | 31 | Movie App | [Day 31](https://github.com/ayushAB/small-javascript-projects/commit/9c14135750c7aadaa8081cec66a33ea084569395) |
+| 32 | Mini Projects | [Day 32](https://ayushab.github.io/small-javascript-projects/) |
 
 ## Log
 
@@ -507,5 +508,19 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 - css and html tricks
 
 **Thoughts:** Brushing up with basics
+
+-----------
+### Day 32: Nov 25, 2021, Thursday
+
+**Today's Progress**: 
+- Home page for mini projects
+
+**Link to work:**
+- [Mini Projects](https://ayushab.github.io/small-javascript-projects/)
+
+**New thing(s) learned:** 
+- css and html tricks, github pages deployment
+
+**Thoughts:** Github pages can be used for small from scratch js applications
 
 -----------
