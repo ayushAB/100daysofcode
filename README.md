@@ -51,6 +51,7 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 | 30 | mobile nav design | [Day 30](https://github.com/ayushAB/small-javascript-projects/commit/8897cca000bb4099214b7ab67924ae014ea60cd7) |
 | 31 | Movie App | [Day 31](https://github.com/ayushAB/small-javascript-projects/commit/9c14135750c7aadaa8081cec66a33ea084569395) |
 | 32 | Mini Projects | [Day 32](https://ayushab.github.io/small-javascript-projects/) |
+| 33 | Image Gallery App(React) | [Day 33](https://github.com/ayushAB/Image-Gallery) |
 
 ## Log
 
@@ -522,5 +523,22 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 - css and html tricks, github pages deployment
 
 **Thoughts:** Github pages can be used for small from scratch js applications
+
+-----------
+### Day 33: Nov 26, 2021, Friday
+
+**Today's Progress**: 
+- Created Image Gallery App using react and tailwind css
+- Got a recall on react hooks
+- used fetch api for api calls
+
+**Link to work:**
+- [Image Gallery React App](https://github.com/ayushAB/Image-Gallery)
+
+**New thing(s) learned:** 
+- Configuring tailwindcss with react 
+- fetch for api calls
+
+**Thoughts:** getting better at react
 
 -----------
