@@ -52,6 +52,7 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 | 31 | Movie App | [Day 31](https://github.com/ayushAB/small-javascript-projects/commit/9c14135750c7aadaa8081cec66a33ea084569395) |
 | 32 | Mini Projects | [Day 32](https://ayushab.github.io/small-javascript-projects/) |
 | 33 | Image Gallery App(React) | [Day 33](https://github.com/ayushAB/Image-Gallery) |
+| 34 | NFT CARD Design | [Day 34](https://ayushab.github.io/small-javascript-projects/nft-preview-card-component-main/) |
 
 ## Log
 
@@ -540,5 +541,19 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 - fetch for api calls
 
 **Thoughts:** getting better at react
+
+-----------
+### Day 34: Nov 27, 2021, Saturday
+
+**Today's Progress**: 
+- Created NFT Card design using tailwind css
+- 
+**Link to work:**
+- [NFT CARD Design](https://ayushab.github.io/small-javascript-projects/nft-preview-card-component-main/)
+
+**New thing(s) learned:** 
+- Frontend mentor challenges
+
+**Thoughts:** getting better at tailwindcss and design
 
 -----------
