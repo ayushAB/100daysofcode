@@ -53,6 +53,7 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 | 32 | Mini Projects | [Day 32](https://ayushab.github.io/small-javascript-projects/) |
 | 33 | Image Gallery App(React) | [Day 33](https://github.com/ayushAB/Image-Gallery) |
 | 34 | NFT CARD Design | [Day 34](https://ayushab.github.io/small-javascript-projects/nft-preview-card-component-main/) |
+| 35 | Event key viewer  | [Day 35](https://ayushab.github.io/small-javascript-projects/event-keycodes/) |
 
 ## Log
 
@@ -555,5 +556,18 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 - Frontend mentor challenges
 
 **Thoughts:** getting better at tailwindcss and design
+
+-----------
+### Day 35: Nov 28, 2021, Sunday
+
+**Today's Progress**: 
+- Created Event key code viwer app
+**Link to work:**
+- [ Event key code viwe](https://ayushab.github.io/small-javascript-projects/event-keycodes/)
+
+**New thing(s) learned:** 
+- Event object in javascript
+
+**Thoughts:** getting better at javascript
 
 -----------
