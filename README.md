@@ -54,6 +54,7 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 | 33 | Image Gallery App(React) | [Day 33](https://github.com/ayushAB/Image-Gallery) |
 | 34 | NFT CARD Design | [Day 34](https://ayushab.github.io/small-javascript-projects/nft-preview-card-component-main/) |
 | 35 | Event key viewer  | [Day 35](https://ayushab.github.io/small-javascript-projects/event-keycodes/) |
+| 36 | Recipe app  | [Day 36 ](https://github.com/ayushAB/RecipeBook) |
 
 ## Log
 
@@ -570,4 +571,16 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 
 **Thoughts:** getting better at javascript
 
+-----------
+### Day 36: Nov 29, 2021, Monday
+
+**Today's Progress**: 
+- Created Recipe app in nuxt js
+**Link to work:**
+- [Recipe App ](https://github.com/ayushAB/RecipeBook)
+
+**New thing(s) learned:** 
+- configuring axios for nuxt  
+
+**Thoughts:** Need to add more features to application
 -----------
