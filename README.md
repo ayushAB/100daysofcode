@@ -55,6 +55,7 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 | 34 | NFT CARD Design | [Day 34](https://ayushab.github.io/small-javascript-projects/nft-preview-card-component-main/) |
 | 35 | Event key viewer  | [Day 35](https://ayushab.github.io/small-javascript-projects/event-keycodes/) |
 | 36 | Recipe app  | [Day 36 ](https://github.com/ayushAB/RecipeBook) |
+| 37 | Hint for lables  | [Day 37 ](https://github.com/ayushAB/Hint) |
 
 ## Log
 
@@ -583,4 +584,18 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 - configuring axios for nuxt  
 
 **Thoughts:** Need to add more features to application
+
+-----------
+### Day 37: Nov 30, 2021, Tuesday
+
+**Today's Progress**: 
+- Created a simple Hint component using tailwindcss and nuxt with user defined config for the ripple and the hint box.
+**Link to work:**
+- [Hint Component](https://github.com/ayushAB/Hint)
+
+**New thing(s) learned:** 
+- Creating component using props efficently 
+
+**Thoughts:** Feeling good with the code for component created
+
 -----------
