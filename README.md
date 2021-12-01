@@ -56,6 +56,7 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 | 35 | Event key viewer  | [Day 35](https://ayushab.github.io/small-javascript-projects/event-keycodes/) |
 | 36 | Recipe app  | [Day 36 ](https://github.com/ayushAB/RecipeBook) |
 | 37 | Hint for lables  | [Day 37 ](https://github.com/ayushAB/Hint) |
+| 38 | Go Language Basics  | [Day 38 ](https://www.youtube.com/watch?v=YS4e4q9oBaU&ab_channel=freeCodeCamp.org) |
 
 ## Log
 
@@ -597,5 +598,18 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 - Creating component using props efficently 
 
 **Thoughts:** Feeling good with the code for component created
+
+-----------
+### Day 38: Dec 1, 2021, Wednesday
+
+**Today's Progress**: 
+- Started learning go lang 
+**Link to work:**
+- [go lang ](https://www.youtube.com/watch?v=YS4e4q9oBaU&ab_channel=freeCodeCamp.org)
+
+**New thing(s) learned:** 
+- basics and setting up go lang
+
+**Thoughts:** Excited for the new language
 
 -----------
