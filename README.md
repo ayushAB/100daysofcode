@@ -57,6 +57,7 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 | 36 | Recipe app  | [Day 36 ](https://github.com/ayushAB/RecipeBook) |
 | 37 | Hint for lables  | [Day 37 ](https://github.com/ayushAB/Hint) |
 | 38 | Go Language Basics  | [Day 38 ](https://www.youtube.com/watch?v=YS4e4q9oBaU&ab_channel=freeCodeCamp.org) |
+| 39 | Go Language Basics  | [Day 39 ](https://github.com/ayushAB/GoBasics) |
 
 ## Log
 
@@ -611,5 +612,20 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 - basics and setting up go lang
 
 **Thoughts:** Excited for the new language
+
+-----------
+### Day 39: Dec 2, 2021, Thrusday
+
+**Today's Progress**: 
+- Started learning go lang 
+- created a function to fetch todos
+**Link to work:**
+- [go lang ](https://github.com/ayushAB/GoBasics)
+
+**New thing(s) learned:** 
+- basics and setting up go lang
+- passing values to functions and string concatination
+
+**Thoughts:** Need to keep exploring
 
 -----------
