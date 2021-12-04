@@ -58,6 +58,8 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 | 37 | Hint for lables  | [Day 37 ](https://github.com/ayushAB/Hint) |
 | 38 | Go Language Basics  | [Day 38 ](https://www.youtube.com/watch?v=YS4e4q9oBaU&ab_channel=freeCodeCamp.org) |
 | 39 | Go Language Basics  | [Day 39 ](https://github.com/ayushAB/GoBasics) |
+| 40 | Nuxt 3 beta  | [Day 39 ](https://v3.nuxtjs.org/) |
+| 41 | Nuxt 3 beta  | [Day 39 ](https://github.com/starttailwind/Agency) |
 
 ## Log
 
@@ -621,6 +623,35 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 - created a function to fetch todos
 **Link to work:**
 - [go lang ](https://github.com/ayushAB/GoBasics)
+
+**New thing(s) learned:** 
+- basics and setting up go lang
+- passing values to functions and string concatination
+
+**Thoughts:** Need to keep exploring
+
+-----------
+### Day 40: Dec 3, 2021, Friday
+
+**Today's Progress**: 
+- nuxt 3 demo application
+- started with design in it s
+**Link to work:**
+- [Freelacer ](https://github.com/starttailwind/freelancer)
+**New thing(s) learned:** 
+- basics and setting up nuxt project
+- configuring tailwindcss
+
+**Thoughts:** Need to keep exploring
+
+-----------
+### Day 41: Dec 4, 2021, saturday
+
+**Today's Progress**: 
+- Started learning go lang 
+- created a function to fetch todos
+**Link to work:**
+- [Agency ](https://github.com/starttailwind/Agency)
 
 **New thing(s) learned:** 
 - basics and setting up go lang
