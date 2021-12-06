@@ -58,8 +58,10 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 | 37 | Hint for lables  | [Day 37 ](https://github.com/ayushAB/Hint) |
 | 38 | Go Language Basics  | [Day 38 ](https://www.youtube.com/watch?v=YS4e4q9oBaU&ab_channel=freeCodeCamp.org) |
 | 39 | Go Language Basics  | [Day 39 ](https://github.com/ayushAB/GoBasics) |
-| 40 | Nuxt 3 beta  | [Day 39 ](https://v3.nuxtjs.org/) |
-| 41 | Nuxt 3 beta  | [Day 39 ](https://github.com/starttailwind/Agency) |
+| 40 | Nuxt 3 beta  | [Day 40 ](https://v3.nuxtjs.org/) |
+| 41 | Nuxt 3 beta  | [Day 41](https://github.com/starttailwind/Agency) |
+| 42 | Nuxt 3 beta  | [Day 42 ](https://github.com/starttailwind/Agency) |
+| 43 | Nuxt 3 beta  | [Day 43 ](https://github.com/starttailwind/Agency) |
 
 ## Log
 
@@ -594,6 +596,7 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 
 **Today's Progress**: 
 - Created a simple Hint component using tailwindcss and nuxt with user defined config for the ripple and the hint box.
+
 **Link to work:**
 - [Hint Component](https://github.com/ayushAB/Hint)
 
@@ -621,6 +624,7 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 **Today's Progress**: 
 - Started learning go lang 
 - created a function to fetch todos
+
 **Link to work:**
 - [go lang ](https://github.com/ayushAB/GoBasics)
 
@@ -635,9 +639,10 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 
 **Today's Progress**: 
 - nuxt 3 demo application
-- started with design in it s
+- started with design in it.
 **Link to work:**
 - [Freelacer ](https://github.com/starttailwind/freelancer)
+
 **New thing(s) learned:** 
 - basics and setting up nuxt project
 - configuring tailwindcss
@@ -648,14 +653,44 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 ### Day 41: Dec 4, 2021, saturday
 
 **Today's Progress**: 
-- Started learning go lang 
-- created a function to fetch todos
+- nuxt 3 demo application
+- started with design in it.
+
 **Link to work:**
 - [Agency ](https://github.com/starttailwind/Agency)
 
 **New thing(s) learned:** 
-- basics and setting up go lang
-- passing values to functions and string concatination
+
+**Thoughts:** Need to keep exploring
+
+-----------
+
+### Day 42: Dec 5, 2021, sunday
+
+**Today's Progress**: 
+- nuxt 3 demo application
+- continued with design.
+
+**Link to work:**
+- [Agency ](https://github.com/starttailwind/Agency)
+
+**New thing(s) learned:** 
+
+
+**Thoughts:** Need to keep exploring
+
+-----------
+### Day 43: Dec 6, 2021, Monday
+
+**Today's Progress**: 
+- nuxt 3 demo application
+- Created a section for the design
+
+**Link to work:**
+- [Agency](https://github.com/starttailwind/Agency)
+
+**New thing(s) learned:** 
+
 
 **Thoughts:** Need to keep exploring
 
