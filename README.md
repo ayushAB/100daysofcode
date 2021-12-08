@@ -62,6 +62,8 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 | 41 | Nuxt 3 beta  | [Day 41](https://github.com/starttailwind/Agency) |
 | 42 | Nuxt 3 beta  | [Day 42 ](https://github.com/starttailwind/Agency) |
 | 43 | Nuxt 3 beta  | [Day 43 ](https://github.com/starttailwind/Agency) |
+| 44 | Laravel Full Stack Project  | [Day 44 ](https://github.com/ayushAB/turfer) |
+| 45 | Laravel Full Stack Project | [Day 45 ](https://github.com/ayushAB/turfer) |
 
 ## Log
 
@@ -693,5 +695,34 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 
 
 **Thoughts:** Need to keep exploring
+
+-----------
+### Day 44: Dec 7, 2021, Tuesday
+
+**Today's Progress**: 
+- created database design
+
+**Link to work:**
+- [turfer](https://github.com/starttailwind/Agency)
+
+**New thing(s) learned:** migration creation
+
+
+**Thoughts:** Need to keep exploring laravel
+
+-----------
+### Day 45: Dec 8, 2021, Wednesday
+
+**Today's Progress**: 
+- structuring application
+- migration changes
+
+**Link to work:**
+- [turfer](https://github.com/ayushAB/turfer)
+
+**New thing(s) learned:** service providers and adding custom routes in laravel
+
+
+**Thoughts:** Need to keep exploring laravel
 
 -----------
