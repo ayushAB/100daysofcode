@@ -64,6 +64,10 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 | 43 | Nuxt 3 beta  | [Day 43 ](https://github.com/starttailwind/Agency) |
 | 44 | Laravel Full Stack Project  | [Day 44 ](https://github.com/ayushAB/turfer) |
 | 45 | Laravel Full Stack Project | [Day 45 ](https://github.com/ayushAB/turfer) |
+| 46 | Laravel Full Stack Project | [Day 46 ](https://github.com/ayushAB/turfer) |
+| 47 | Laravel Full Stack Project | [Day 47 ](https://github.com/ayushAB/turfer) |
+| 48 | Laravel Full Stack Project | [Day 48 ](https://github.com/ayushAB/turfer) |
+| 48 | Laravel Full Stack Project | [Day 49 ](https://github.com/ayushAB/turfer) |
 
 ## Log
 
@@ -721,6 +725,65 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 - [turfer](https://github.com/ayushAB/turfer)
 
 **New thing(s) learned:** service providers and adding custom routes in laravel
+
+
+**Thoughts:** Need to keep exploring laravel
+
+-----------
+### Day 46: Dec 9, 2021, Thrusday
+
+**Today's Progress**: 
+- Desinging
+- migration and database updates
+
+**Link to work:**
+- [turfer](https://github.com/ayushAB/turfer)
+
+**New thing(s) learned:** routing using ziggy
+
+
+**Thoughts:** Need to keep exploring laravel
+
+-----------
+### Day 47: Dec 10, 2021, Friday
+
+**Today's Progress**: 
+- Desinging
+- migration and database updates
+
+**Link to work:**
+- [turfer](https://github.com/ayushAB/turfer)
+
+**New thing(s) learned:** routing using ziggy
+
+
+**Thoughts:** Need to keep exploring laravel
+
+-----------
+### Day 48: Dec 11, 2021, Saturday
+
+**Today's Progress**: 
+- Desinging and booking system
+- migration and database updates
+
+**Link to work:**
+- [turfer](https://github.com/ayushAB/turfer)
+
+**New thing(s) learned:** routing using ziggy
+
+
+**Thoughts:** Need to keep exploring laravel
+
+-----------
+### Day 49: Dec 12, 2021, Sunday
+
+**Today's Progress**: 
+- Desinging and booking system
+
+**Link to work:**
+- [turfer](https://github.com/ayushAB/turfer)
+
+**New thing(s) learned:** routing using ziggy
 
 
 **Thoughts:** Need to keep exploring laravel
