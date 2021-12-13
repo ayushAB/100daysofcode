@@ -790,7 +790,7 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 **Thoughts:** Need to keep exploring laravel
 
 -----------
-### Day 50: Dec 12, 2021, Monday
+### Day 50: Dec 13, 2021, Monday
 
 **Today's Progress**: 
 - Desinging system
