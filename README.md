@@ -69,6 +69,8 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 | 48 | Laravel Full Stack Project | [Day 48 ](https://github.com/ayushAB/turfer) |
 | 49 | Laravel Full Stack Project | [Day 49 ](https://github.com/ayushAB/turfer) |
 | 50 | Laravel Full Stack Project | [Day 50 ](https://github.com/ayushAB/turfer) |
+| 51 | Laravel Full Stack Project | [Day 51 ](https://github.com/ayushAB/turfer) |
+| 52 | Laravel Full Stack Project | [Day 52 ](https://github.com/ayushAB/turfer) |
 
 ## Log
 
@@ -795,6 +797,34 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 **Today's Progress**: 
 - Desinging system
 - tailwind 3 fixes
+**Link to work:**
+- [turfer](https://github.com/ayushAB/turfer)
+
+**New thing(s) learned:** routing using ziggy
+
+
+**Thoughts:** Need to keep exploring laravel
+
+-----------
+### Day 51: Dec 14, 2021, Tuesday
+
+**Today's Progress**: 
+- Desinging system
+- tailwind 3 fixes
+**Link to work:**
+- [turfer](https://github.com/ayushAB/turfer)
+
+**New thing(s) learned:** routing using ziggy
+
+
+**Thoughts:** Need to keep exploring laravel
+
+-----------
+### Day 52: Dec 15, 2021, Tuesday
+
+**Today's Progress**: 
+- Desing fixes
+- payement process implementation
 **Link to work:**
 - [turfer](https://github.com/ayushAB/turfer)
 
