@@ -71,6 +71,9 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 | 50 | Laravel Full Stack Project | [Day 50 ](https://github.com/ayushAB/turfer) |
 | 51 | Laravel Full Stack Project | [Day 51 ](https://github.com/ayushAB/turfer) |
 | 52 | Laravel Full Stack Project | [Day 52 ](https://github.com/ayushAB/turfer) |
+| 53 | Laravel Full Stack Project | [Day 53 ](https://github.com/ayushAB/turfer) |
+| 54 | Laravel Full Stack Project & trees Design from json | [Day 54 ](https://github.com/ayushAB/turfer) &  [Day 54 ](https://github.com/ayushAB/small-javascript-projects/tree/master/Tree) |
+| 55 | Laravel Full Stack Project | [Day 55 ](https://github.com/ayushAB/turfer) |
 
 ## Log
 
@@ -820,11 +823,57 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 **Thoughts:** Need to keep exploring laravel
 
 -----------
-### Day 52: Dec 15, 2021, Tuesday
+### Day 52: Dec 15, 2021, Wednesday
 
 **Today's Progress**: 
 - Desing fixes
 - payement process implementation
+**Link to work:**
+- [turfer](https://github.com/ayushAB/turfer)
+
+**New thing(s) learned:** routing using ziggy
+
+
+**Thoughts:** Need to keep exploring laravel
+
+-----------
+### Day 53: Dec 16, 2021, Thrusday
+
+**Today's Progress**: 
+- Desing fixes
+- payement process implementation
+**Link to work:**
+- [turfer](https://github.com/ayushAB/turfer)
+
+**New thing(s) learned:** routing using ziggy
+
+
+**Thoughts:** Need to keep exploring laravel
+
+-----------
+### Day 54: Dec 17, 2021, Friday
+
+**Today's Progress**: 
+- Desing fixes
+- payement process implementation
+- added a dailog for booking
+- created a tree design using nested json
+**Link to work:**
+- [turfer](https://github.com/ayushAB/turfer)
+- [nested json tree]
+
+**New thing(s) learned:** routing using ziggy
+
+
+**Thoughts:** Need to keep exploring laravel
+
+-----------
+### Day 55: Dec 18, 2021, Staurday
+
+**Today's Progress**: 
+- Desing fixes
+- payement process implementation
+- added a dailog for booking
 **Link to work:**
 - [turfer](https://github.com/ayushAB/turfer)
 
