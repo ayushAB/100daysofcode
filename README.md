@@ -801,6 +801,8 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 **Today's Progress**: 
 - Desinging system
 - tailwind 3 fixes
+
+
 **Link to work:**
 - [turfer](https://github.com/ayushAB/turfer)
 
@@ -815,6 +817,8 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 **Today's Progress**: 
 - Desinging system
 - tailwind 3 fixes
+
+
 **Link to work:**
 - [turfer](https://github.com/ayushAB/turfer)
 
@@ -829,6 +833,8 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 **Today's Progress**: 
 - Desing fixes
 - payement process implementation
+
+
 **Link to work:**
 - [turfer](https://github.com/ayushAB/turfer)
 
@@ -843,6 +849,8 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 **Today's Progress**: 
 - Desing fixes
 - payement process implementation
+
+
 **Link to work:**
 - [turfer](https://github.com/ayushAB/turfer)
 
@@ -859,6 +867,8 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 - payement process implementation
 - added a dailog for booking
 - created a tree design using nested json
+
+
 **Link to work:**
 - [turfer](https://github.com/ayushAB/turfer)
 - [nested json tree]
@@ -875,6 +885,8 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 - Desing fixes
 - payement process implementation
 - added a dailog for booking
+
+
 **Link to work:**
 - [turfer](https://github.com/ayushAB/turfer)
 
@@ -888,6 +900,8 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 
 **Today's Progress**: 
 - Did a challenge to create a mini cart in react
+
+
 **Link to work:**
 - [min-cart](https://github.com/ayushAB/mini-cart)
 
