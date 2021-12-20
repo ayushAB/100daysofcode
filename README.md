@@ -75,6 +75,7 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 | 54 | Laravel Full Stack Project & trees Design from json | [Day 54 ](https://github.com/ayushAB/turfer) &  [Day 54 ](https://github.com/ayushAB/small-javascript-projects/tree/master/Tree) |
 | 55 | Laravel Full Stack Project | [Day 55 ](https://github.com/ayushAB/turfer) |
 | 56 | React Mini-Cart | [Day 56 ](https://github.com/ayushAB/mini-cart) |
+| 57 | React Redux  | [Day 57 ](https://github.com/ayushAB/redux-example) |
 
 ## Log
 
@@ -904,6 +905,21 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 
 **Link to work:**
 - [min-cart](https://github.com/ayushAB/mini-cart)
+
+**New thing(s) learned:** using state and storing data in loacal storage
+
+
+**Thoughts:** concepts in react
+
+-----------
+### Day 57: Dec 20, 2021, Monday
+
+**Today's Progress**: 
+- Did a challenge to create a mini cart in react
+
+
+**Link to work:**
+- [redux react example](https://github.com/ayushAB/redux-example)
 
 **New thing(s) learned:** using state and storing data in loacal storage
 
