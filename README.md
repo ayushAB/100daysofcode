@@ -76,6 +76,7 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 | 55 | Laravel Full Stack Project | [Day 55 ](https://github.com/ayushAB/turfer) |
 | 56 | React Mini-Cart | [Day 56 ](https://github.com/ayushAB/mini-cart) |
 | 57 | React Redux  | [Day 57 ](https://github.com/ayushAB/redux-example) |
+| 58 | Laravel mix  | [Day 58 ](https://laravel-mix.com/docs/6.0/installation) |
 
 ## Log
 
@@ -925,5 +926,20 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 
 
 **Thoughts:** concepts in react
+
+-----------
+### Day 58: Dec 21, 2021, Monday
+
+**Today's Progress**: 
+- Laravel mix demo
+
+
+**Link to work:**
+- [laravel mix](https://laravel-mix.com/docs/6.0/installation)
+
+**New thing(s) learned:** using laravel mix
+
+
+**Thoughts:** 
 
 -----------
