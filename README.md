@@ -77,6 +77,9 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 | 56 | React Mini-Cart | [Day 56 ](https://github.com/ayushAB/mini-cart) |
 | 57 | React Redux  | [Day 57 ](https://github.com/ayushAB/redux-example) |
 | 58 | Laravel mix  | [Day 58 ](https://laravel-mix.com/docs/6.0/installation) |
+| 59 | svelte  | [Day 59 ](https://github.com/ayushAB/svelte-learning) |
+| 60 | svelte  | [Day 60 ](https://github.com/ayushAB/svelte-learning) |
+
 
 ## Log
 
@@ -928,7 +931,7 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 **Thoughts:** concepts in react
 
 -----------
-### Day 58: Dec 21, 2021, Monday
+### Day 58: Dec 21, 2021, Tuesday
 
 **Today's Progress**: 
 - Laravel mix demo
@@ -938,6 +941,36 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 - [laravel mix](https://laravel-mix.com/docs/6.0/installation)
 
 **New thing(s) learned:** using laravel mix
+
+
+**Thoughts:** 
+
+-----------
+### Day 59: Dec 22, 2021, Wednesday
+
+**Today's Progress**: 
+- learned fundamentals of svelte framework
+
+
+**Link to work:**
+- [svelte learning](https://github.com/ayushAB/svelte-learning)
+
+**New thing(s) learned:** svelte framework
+
+
+**Thoughts:** 
+
+-----------
+### Day 60: Dec 23, 2021, Thursaday
+
+**Today's Progress**: 
+- learned fundamentals of svelte framework
+
+
+**Link to work:**
+- [svelte learning](https://github.com/ayushAB/svelte-learning)
+
+**New thing(s) learned:** svelte framework
 
 
 **Thoughts:** 
