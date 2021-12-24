@@ -79,6 +79,7 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 | 58 | Laravel mix  | [Day 58 ](https://laravel-mix.com/docs/6.0/installation) |
 | 59 | svelte  | [Day 59 ](https://github.com/ayushAB/svelte-learning) |
 | 60 | svelte  | [Day 60 ](https://github.com/ayushAB/svelte-learning) |
+| 61 | svelte  | [Day 61 ](https://github.com/ayushAB/svelte-learning) |
 
 
 ## Log
@@ -965,6 +966,22 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 
 **Today's Progress**: 
 - learned fundamentals of svelte framework
+
+
+**Link to work:**
+- [svelte learning](https://github.com/ayushAB/svelte-learning)
+
+**New thing(s) learned:** svelte framework
+
+
+**Thoughts:** 
+
+-----------
+### Day 61: Dec 24, 2021, Friday
+
+**Today's Progress**: 
+- learned fundamentals of svelte framework
+- store and props passing
 
 
 **Link to work:**
