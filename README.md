@@ -80,6 +80,7 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 | 59 | svelte  | [Day 59 ](https://github.com/ayushAB/svelte-learning) |
 | 60 | svelte  | [Day 60 ](https://github.com/ayushAB/svelte-learning) |
 | 61 | svelte  | [Day 61 ](https://github.com/ayushAB/svelte-learning) |
+| 62 | svelte  | [Day 62 ](https://github.com/ayushAB/svelte-learning) |
 
 
 ## Log
@@ -988,6 +989,23 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 - [svelte learning](https://github.com/ayushAB/svelte-learning)
 
 **New thing(s) learned:** svelte framework
+
+
+**Thoughts:** 
+
+-----------
+### Day 62: Dec 25, 2021, saturday
+
+**Today's Progress**: 
+- learned fundamentals of svelte framework
+- store and props passing
+- adding tailwindcss to svelte app
+
+
+**Link to work:**
+- [svelte learning](https://github.com/ayushAB/svelte-learning)
+
+**New thing(s) learned:** svelte framework and tailwindcss
 
 
 **Thoughts:** 
