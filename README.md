@@ -82,6 +82,8 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 | 61 | svelte  | [Day 61 ](https://github.com/ayushAB/svelte-learning) |
 | 62 | svelte  | [Day 62 ](https://github.com/ayushAB/svelte-learning) |
 | 63 | svelte  | [Day 63 ](https://github.com/ayushAB/svelte-learning) |
+| 64 | svelte  | [Day 63 ](https://github.com/ayushAB/svelte-learning) |
+| 65 | svelte & Laravel notification | [Day 63 ](https://github.com/ayushAB/svelte-learning) |
 
 
 ## Log
@@ -1017,6 +1019,40 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 **Today's Progress**: 
 - learned fundamentals of svelte framework
 - And working with firebase
+
+
+**Link to work:**
+- [svelte learning](https://github.com/ayushAB/svelte-learning)
+
+**New thing(s) learned:** svelte framework and firebase
+
+
+**Thoughts:** 
+
+-----------
+### Day 64: Dec 27, 2021, Monday
+
+**Today's Progress**: 
+- learned fundamentals of svelte framework
+- And working with firebase
+- created todo app
+
+
+**Link to work:**
+- [svelte learning](https://github.com/ayushAB/svelte-learning)
+
+**New thing(s) learned:** svelte framework and firebase
+
+
+**Thoughts:** 
+
+-----------
+### Day 65: Dec 28, 2021, Tuesday
+
+**Today's Progress**: 
+- notification in laravel
+- And working with firebase
+- bug fixes svelte todo app
 
 
 **Link to work:**
