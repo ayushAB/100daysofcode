@@ -82,8 +82,9 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 | 61 | svelte  | [Day 61 ](https://github.com/ayushAB/svelte-learning) |
 | 62 | svelte  | [Day 62 ](https://github.com/ayushAB/svelte-learning) |
 | 63 | svelte  | [Day 63 ](https://github.com/ayushAB/svelte-learning) |
-| 64 | svelte  | [Day 63 ](https://github.com/ayushAB/svelte-learning) |
-| 65 | svelte & Laravel notification | [Day 63 ](https://github.com/ayushAB/svelte-learning) |
+| 64 | svelte  | [Day 64 ](https://github.com/ayushAB/svelte-learning) |
+| 65 | svelte & Laravel notification | [Day 65 ](https://github.com/ayushAB/svelte-learning) |
+| 66 | Django | [Day 66 ](https://github.com/ayushAB/django-learn) |
 
 
 ## Log
@@ -1059,6 +1060,22 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 - [svelte learning](https://github.com/ayushAB/svelte-learning)
 
 **New thing(s) learned:** svelte framework and firebase
+
+
+**Thoughts:** 
+
+-----------
+### Day 66: Dec 29, 2021, Wednesday
+
+**Today's Progress**: 
+- learned creating virtual enviroments for pyhton development
+- started with django pyhton framework
+
+
+**Link to work:**
+- [Django](https://github.com/ayushAB/django-learn)
+
+**New thing(s) learned:** exploring pyhton frameworks
 
 
 **Thoughts:** 
