@@ -85,6 +85,10 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 | 64 | svelte  | [Day 64 ](https://github.com/ayushAB/svelte-learning) |
 | 65 | svelte & Laravel notification | [Day 65 ](https://github.com/ayushAB/svelte-learning) |
 | 66 | Django | [Day 66 ](https://github.com/ayushAB/django-learn) |
+| 67 | Django | [Day 67 ](https://github.com/ayushAB/django-learn) |
+| 68 | Django | [Day 68 ](https://github.com/ayushAB/django-learn) |
+| 69 | Django | [Day 69 ](https://github.com/ayushAB/django-learn) |
+| 70 | Django | [Day 70 ](https://github.com/ayushAB/docker-notes) |
 
 
 ## Log
@@ -1076,6 +1080,69 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 - [Django](https://github.com/ayushAB/django-learn)
 
 **New thing(s) learned:** exploring pyhton frameworks
+
+
+**Thoughts:** 
+
+-----------
+### Day 67: Dec 30, 2021, Thrusday
+
+**Today's Progress**: 
+- learned creating virtual enviroments for pyhton development
+- started with django pyhton framework
+
+
+**Link to work:**
+- [Django](https://github.com/ayushAB/django-learn)
+
+**New thing(s) learned:** exploring pyhton frameworks
+
+
+**Thoughts:** 
+
+-----------
+### Day 68: Dec 31, 2021, Friday
+
+**Today's Progress**: 
+- learned creating virtual enviroments for pyhton development
+- started with django pyhton framework
+
+
+**Link to work:**
+- [Django](https://github.com/ayushAB/django-learn)
+
+**New thing(s) learned:** exploring pyhton frameworks
+
+
+**Thoughts:** 
+
+-----------
+### Day 69: Jan 1, 2022, Saturday
+
+**Today's Progress**: 
+- learned creating virtual enviroments for pyhton development
+- started with django pyhton framework
+
+
+**Link to work:**
+- [Django](https://github.com/ayushAB/django-learn)
+
+**New thing(s) learned:** exploring pyhton frameworks
+
+
+**Thoughts:** 
+
+-----------
+### Day 70: Jan 2, 2022, Sunday
+
+**Today's Progress**: 
+- Docker practice
+
+
+**Link to work:**
+- [Django](https://github.com/ayushAB/django-learn)
+
+**New thing(s) learned:** Docker practice
 
 
 **Thoughts:** 
