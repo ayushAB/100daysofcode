@@ -1148,3 +1148,18 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 **Thoughts:** 
 
 -----------
+### Day 71: Jan 3, 2022, Monday
+
+**Today's Progress**: 
+- Some simple pyhton scripts
+
+
+**Link to work:**
+- [python scripts](https://github.com/ayushAB/Python-Scripts)
+
+**New thing(s) learned:** Some simple pyhton scripts
+
+
+**Thoughts:** 
+
+-----------
