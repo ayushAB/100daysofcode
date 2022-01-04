@@ -88,7 +88,9 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 | 67 | Django | [Day 67 ](https://github.com/ayushAB/django-learn) |
 | 68 | Django | [Day 68 ](https://github.com/ayushAB/django-learn) |
 | 69 | Django | [Day 69 ](https://github.com/ayushAB/django-learn) |
-| 70 | Django | [Day 70 ](https://github.com/ayushAB/docker-notes) |
+| 70 | Docker practice | [Day 70 ](https://github.com/ayushAB/docker-notes) |
+| 71 | python programs | [Day 71 ](https://github.com/ayushAB/Python-Scripts) |
+| 72 | Django | [Day 72 ](https://github.com/ayushAB/django-learn) |
 
 
 ## Log
